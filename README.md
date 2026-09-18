@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # HACKgaurd
 
 HACKgaurd is a browser-based file threat-analysis dashboard backed by a Flask service. It analyzes Portable Executable (PE) import patterns with a trained scikit-learn model, returns a threat score, and presents the result in the dashboard. Non-PE files receive the current fallback scan result.
