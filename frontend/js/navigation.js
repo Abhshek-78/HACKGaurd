@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const navItems = document.querySelectorAll('.sidebar-nav .nav-item');
 
     navItems.forEach(item => {
-        // Remove active class from all
+        // Remove active class 
         item.classList.remove('active');
 
         // Check if href matches current page
